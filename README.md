@@ -1,6 +1,8 @@
 # Keeper-App
-Aplicativo web de notas baseado no Google Keep. Desenvolvido com React.js e Material UI.
+Web application based on Google Keep. Developed with React.js and Material UI.
 
-Nessa primeira versão o app possui as funcionalidades simples de adicionar notas a partir do campo no centro da tela, e de deletar as notas criadas.
+This app was developed with the intention of learning the basic concepts of React.js, from creating functional components and controlled components to handling state with hooks. The animations and icons were added through Material UI to resemble Google Keep's design.
 
-Link para acesso: [Keeper App](https://andre-gabos.github.io/keeper-app/index.html)
+This version of the app has the basic functionalities of creating new notes and deleting them, but it is in my plans to come back to it and add a few more features and a new design.
+
+Link to access the app's website: [Keeper App](https://andre-gabos.github.io/keeper-app/index.html)
